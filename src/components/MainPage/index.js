@@ -6,11 +6,9 @@ import MyPortfolio from '../Portfolio';
 import Footer from '../Footer';
 
 export default function MainPage() {
-
     const [page, pageChange] = useState('about');
 
     const showPage = () => {
-
         if (page === 'about') {
             return <About />;
         }

@@ -11,34 +11,41 @@ function Resume() {
                         <div className="card border-info bg-dark p-3 align-items-center">
                             <h3 className='card-title text-center text-info mx'>Resume</h3>
                             <a className='link-info' href={ResumeLink} download>
-                                <h5 className='text-info'>Download Resume</h5>
+                                <h5 className='text-info'>Download Full Resume</h5>
                             </a>
 
-                            <h5 className="text-center text-info">Skills</h5>
+                            <h5 className="text-center text-info">Summary</h5>
                             <p className="text-center text-info">
-                                Front End: <br/>
-                                <br/>
-                                - HTLM <br/>
-                                - CSS <br/>
-                                - JavaScript <br/>
-                                - jQuery <br/>
-                                - Responsive Design <br/>
-                                - React <br/>
-                                - BootStrap <br/>
-                                - Tailwind <br/>
-                                - Git <br/>
-                                <br/>
-                                Back End: <br/>
+                                Contact Josiah <br />
+                                Phone: (980) 286-2752 | Email: josiahstelzl@gmail.com <br />
+                                LinkedIn: https://www.linkedin.com/in/josiah-stelzl-3122b4241/ <br />
+                                GitHub: https://github.com/Jstelzl <br />
+                                Where: Indian Land, SC <br />
+                                <br />
+                                Certified Full Stack Web Developer with experience in customer services and on premise instruction. Self starter, team oriented, who is passionate about developing, testing, deploying, and maintaining apps using the latest technologies with an eye towards user experience (UX). Strengths in creativity, teamwork, and building projects from ideation to execution.
+                                <br />
+                                <br />
+                                TECHNICAL SKILLS <br />
+                                JavaScript, <br />
+                                HTML, <br/>
+                                CSS, <br/>
+                                jQuery, <br/>
+                                Responsive Design, <br/>
+                                React, <br/>
+                                BootStrap, <br/>
+                                Tailwind, <br/>
+                                APIs, <br/>
+                                Node, <br/>
+                                Express, <br/>
+                                MySQL, <br/>
+                                Sequelize, <br/>
+                                MongoDB, <br/>
+                                Mongoose, <br/>
+                                REST, <br/>
+                                GraphQL, <br/>
+                                Git, <br/>
+                                GitHub <br/>
 
-                                - APIs <br/>
-                                - Node <br/>
-                                - Express <br/>
-                                - MySQL, Sequelize <br/>
-                                - MongoDB, Mongoose <br/>
-                                - REST <br/>
-                                - GraphQL <br/>
-                                - Express.js <br/>
-                                - Git <br/>
                             </p>
                         </div>
                     </div>
