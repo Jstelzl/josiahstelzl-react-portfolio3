@@ -1,5 +1,4 @@
 import React from 'react';
-//import headerImage from '../../assets/photos/header-image.jpeg';
 
 
 function NavBar({ page, handlePageChange }) {
@@ -40,16 +39,6 @@ function NavBar({ page, handlePageChange }) {
                                 Portfolio
                             </a>
                         </li>
-                        {/* Contacts */}
-                        {/* <li className='nav-item'>
-                            <a
-                                href='#contact'
-                                onClick={() => handlePageChange('contact')}
-                                className={page === 'contact' ? 'nav-link active text-info text-opacity-15' : 'nav-link text-secondary'}
-                            >
-                                Contact Me
-                            </a>
-                        </li> */}
                     </ul>
                 </div>
             </div>
